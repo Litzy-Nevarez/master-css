@@ -1,0 +1,9 @@
+/* root representa el html, toda la raiz*/ 
+
+:root{
+    --mi-variable: #cdf;
+}
+
+body{
+    background-color: var(--mi-variable);
+}
